@@ -1,0 +1,18 @@
+.search-input {
+    width: 80%;
+    margin: 20px;
+    font-size: 20px;
+    padding: 10px;
+    border: 0.3px solid gray;
+    border-radius: 10px;
+}
+.search-input:focus{
+    outline: none;
+}
+.item {
+    display: flex;
+    flex-direction: column;
+}
+.bookfinder-home {
+    padding: 20px;
+}
