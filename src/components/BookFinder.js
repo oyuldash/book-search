@@ -1,7 +1,7 @@
 import React, { useCallback, useEffect, useState } from 'react';
 import './BookFinder.css';
 import { FaGithub } from "react-icons/fa";
-
+// added comments
 export default function BookFinder() {
     const [data,setData] = useState([]);
     const [query,setQuery] = useState('technology');
